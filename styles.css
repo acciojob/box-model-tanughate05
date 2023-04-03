@@ -12,12 +12,22 @@
 	background:green;
 	border-radius:60px;
 	width:60px;
-	height:60px;	
+	height:60px;
+	display:inline-block;
+	vertical-align:middle;
 }
 .yellow{
 	background:yellow;
 	border-radius:60px;
 	width:60px;
 	height:60px;	
-	
+	display:inline-block;
+	vertical-align:middle;
+}
+.red{
+	background:red;
+	border-radius:60px;
+	width:60px;
+	height:60px;	
+	display:inline-block;
 }
